@@ -3,7 +3,7 @@ public class Main{
 
 
         Computador comp = new Computador("Notebook", "Asus", 2019, 32,"" );
-        Periferico perif = new Periferico("Mouse gay", "Redragon", 2020, "", "");
+        Periferico perif = new Periferico("Mouse gamer", "Redragon", 2020, "", "");
 
         System.out.println("==========Apresentação==========");
         comp.apresentarEquip();
